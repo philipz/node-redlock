@@ -1,0 +1,18 @@
+src/index.ts
+  h_1b119f25eaf333 13,16-18,22,161-162,325-333,404-420,426,737-738,750-753,759,773-776,778-782,784-805,807-808,810-815,817-826
+tsconfig.json
+  h_1b119f25eaf333 14-22
+src/regression.test.ts
+  h_1b119f25eaf333 1-552
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0332586a99df327779ec49a658c5114ba4174d8e",
+  "prompts": {},
+  "humans": {
+    "h_1b119f25eaf333": {
+      "author": "philipz <philipzheng@gmail.com>"
+    }
+  }
+}
