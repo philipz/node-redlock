@@ -1,0 +1,16 @@
+src/index.ts
+  h_1b119f25eaf333 559-572
+src/regression.test.ts
+  h_1b119f25eaf333 553-577
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1d4b3b124cb08a23347a2636c0b8b2e95f81c74d",
+  "prompts": {},
+  "humans": {
+    "h_1b119f25eaf333": {
+      "author": "philipz <philipzheng@gmail.com>"
+    }
+  }
+}
